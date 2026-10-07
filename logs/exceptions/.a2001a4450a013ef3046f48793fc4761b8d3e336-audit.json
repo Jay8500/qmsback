@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "logs\\exceptions\\.a2001a4450a013ef3046f48793fc4761b8d3e336-audit.json",
+    "files": [
+        {
+            "date": 1790851629723,
+            "name": "logs\\exceptions\\hqms-exceptions-2026-10-01.log",
+            "hash": "3e7cccb0447a9166d505a5b8d481014eaa877caae990d525d66d4d59f2e00cdb"
+        },
+        {
+            "date": 1790917630323,
+            "name": "logs\\exceptions\\hqms-exceptions-2026-10-02.log",
+            "hash": "0b5d5a179ec629ca7a88cdd532f8fad0f49d12ad5b4df66164679364de5b5512"
+        },
+        {
+            "date": 1791223328602,
+            "name": "logs\\exceptions\\hqms-exceptions-2026-10-05.log",
+            "hash": "8209aad1284034c6d7aea267c7b1c5bec8407eab45941e5df86f2b5fb2ec3bda"
+        },
+        {
+            "date": 1791243455081,
+            "name": "logs\\exceptions\\hqms-exceptions-2026-10-06.log",
+            "hash": "7dd79e35c85336c137d8838e51ff7cc76b1ef0e16d2e8bf8010d6ff003966536"
+        },
+        {
+            "date": 1791338278631,
+            "name": "logs\\exceptions\\hqms-exceptions-2026-10-07.log",
+            "hash": "0e53be6bfaedb29f04144effe5a7840456b4ca15d58fee3561efc9426a3055f9"
+        }
+    ],
+    "hashType": "sha256"
+}

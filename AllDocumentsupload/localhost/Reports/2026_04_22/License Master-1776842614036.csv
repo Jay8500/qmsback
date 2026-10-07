@@ -1,0 +1,11 @@
+License Name,Category Type,Renewal Frequency Months,Description,Status
+a,Trade License,2,a,Active
+LI123,Trade License,3,Test,Active
+Pharmacy License,Trade License,8,Pharmacy License,Active
+Pollution Control Board Clearance,FSSAI,4,Pollution Control Board Clearance,Active
+Fire Safety Certificate,Fire Safety NOC,6,Fire Safety Certificate,Active
+Bio-Medical Waste License,Trade License,12,Bio-Medical Waste License,Active
+QWERRT,Trade License,3,QWERRT V,Inactive
+QUALITY LICENSE,FSSAI,6,QUALITY LICENSE,Inactive
+Trade Related,Trade License,3,Test222,Inactive
+Fire Safety,Fire Safety NOC,4,Test123,Inactive
